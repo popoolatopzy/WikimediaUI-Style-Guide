@@ -20,7 +20,7 @@
 					sessionStorage.setItem( 'fontsLoaded', 1 );
 				} );
 			};
-			document.head.appendChild( script );
+			document.head.appendChild('script');
 		}
 	}
 }() );
